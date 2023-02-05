@@ -1,6 +1,8 @@
 # Visual Pollution Detection Web Application
 
 ![](https://github.com/abdomorsi123/visual-pollution-detection-web-app/blob/main/demo.gif)
+
+
 I built a flask web application for [visual-pollution-detection](https://github.com/abdomorsi123/visual-pollution-detection.git) project, you can use it to object detection instead of dealing with command prompt.
 
 Also you can use it with any YOLOv7 project, just replace `best.pt` file with your model file.
